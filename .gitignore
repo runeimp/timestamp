@@ -1,0 +1,8 @@
+# Mac Cruft
+.DS_Store
+._*
+
+# Windows Cruft
+Thumbs.db
+desktop.ini
+ehthumbs.db
